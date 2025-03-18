@@ -1,1 +1,1 @@
-thongth
+Every line of code is technical debt until proven otherwise.thongth
