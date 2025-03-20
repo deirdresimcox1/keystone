@@ -1,1 +1,1 @@
-Keep calm and write Python.Every line of code is technical debt until proven otherwise.thongth
+Just because it compiles doesn’t mean it works.Keep calm and write Python.Every line of code is technical debt until proven otherwise.thongth
