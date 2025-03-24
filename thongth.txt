@@ -1,1 +1,1 @@
-Real programmers count from 0.Just because it compiles doesn’t mean it works.Keep calm and write Python.Every line of code is technical debt until proven otherwise.thongth
+Good software is like a good joke—it needs no explanation.Real programmers count from 0.Just because it compiles doesn’t mean it works.Keep calm and write Python.Every line of code is technical debt until proven otherwise.thongth
